@@ -12,6 +12,7 @@
 		73CC2A9B1DC1A95C0001C3E6 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 73CC2A991DC1A95C0001C3E6 /* Main.storyboard */; };
 		73CC2A9D1DC1A95C0001C3E6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 73CC2A9C1DC1A95C0001C3E6 /* Assets.xcassets */; };
 		73CC2AA01DC1A95C0001C3E6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 73CC2A9E1DC1A95C0001C3E6 /* LaunchScreen.storyboard */; };
+		73CC2AA81DC1A9DC0001C3E6 /* ball.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 73CC2AA71DC1A9DC0001C3E6 /* ball.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		73CC2A9C1DC1A95C0001C3E6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		73CC2A9F1DC1A95C0001C3E6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		73CC2AA11DC1A95C0001C3E6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		73CC2AA71DC1A9DC0001C3E6 /* ball.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = ball.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 		73CC2A941DC1A95C0001C3E6 /* UIDynamicAnimator */ = {
 			isa = PBXGroup;
 			children = (
+				73CC2AA71DC1A9DC0001C3E6 /* ball.jpg */,
 				73CC2A951DC1A95C0001C3E6 /* AppDelegate.swift */,
 				73CC2A971DC1A95C0001C3E6 /* ViewController.swift */,
 				73CC2A991DC1A95C0001C3E6 /* Main.storyboard */,
@@ -124,6 +127,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				73CC2AA01DC1A95C0001C3E6 /* LaunchScreen.storyboard in Resources */,
+				73CC2AA81DC1A9DC0001C3E6 /* ball.jpg in Resources */,
 				73CC2A9D1DC1A95C0001C3E6 /* Assets.xcassets in Resources */,
 				73CC2A9B1DC1A95C0001C3E6 /* Main.storyboard in Resources */,
 			);
